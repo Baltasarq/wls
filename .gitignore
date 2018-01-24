@@ -1,3 +1,13 @@
+# Binary directories
+bin/
+obj/
+Debug/
+Release/
+
+# User files
+*.depend
+*.layout
+
 # Prerequisites
 *.d
 
