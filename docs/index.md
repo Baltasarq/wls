@@ -23,5 +23,7 @@ Available parameters:
     --help          Shows this help and exits.
 
 [Download last release](https://github.com/Baltasarq/wls/releases "Release").
+
 [Show](https://github.com/Baltasarq/wls/ "wls in GitHub") in [GitHub](https://www.github.com/ "GitHub").
+
 &copy; 2009 [baltasarq](http://baltasarq.info/ "baltasarq home") [MIT License](http://www.opensource.org/licenses/MIT "MIT License").
