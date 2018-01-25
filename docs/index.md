@@ -6,6 +6,7 @@ The popular command-line unix tool, ported to Windows.
 The command-line tool *ls* is a popular way to show the files inside a directory in Unix.
 
 Available parameters:
+
     -a: view also hidden files
     -l: long listing format
     -R: recurse subdirectories
